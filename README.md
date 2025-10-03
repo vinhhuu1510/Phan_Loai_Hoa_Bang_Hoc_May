@@ -48,4 +48,5 @@ Scikit-learn, TensorFlow, Keras official docs.
 Nhóm thực hiện: Đề tài 7 – Phân loại hoa Oxford-102
 
 Gồm những thành viên: Trương Hữu Vinh, Lê Hưng Tâm, Nguyễn Hữu Bảo.
+
 © 2025 NHÓM 17,Phân loại hoa Oxford-102 – NHẬP MÔN HỌC  – TRƯỜNG ĐẠI HỌC ĐẠI NAM
